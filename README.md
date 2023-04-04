@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repositorio de prueba
+PRUEBA DE COMO CLONAR UN REPOSITORIO DESDE LA TERMINAL DE GITBASH
